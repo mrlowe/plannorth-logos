@@ -14,7 +14,7 @@
    viewBox="0 0 248.70833 41.275002"
    version="1.1"
    id="svg935"
-   inkscape:export-filename="C:\Users\Matt\Documents\GitHub\plannorth-logos\small\logo-header-944w-156h.png"
+   inkscape:export-filename="C:\Users\Matt\Documents\GitHub\plannorth-logos\small\logo-header-940w-156h-navy.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -46,7 +46,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="8.6111226"
-     inkscape:cx="483.16058"
+     inkscape:cx="462.37351"
      inkscape:cy="117.49683"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
